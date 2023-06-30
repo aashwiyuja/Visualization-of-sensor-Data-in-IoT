@@ -31,7 +31,7 @@ We couldn't get a sensor to connect to AWS and deliver data in real time since w
 The python script may be found at the URL below. 
 https://github.com/aws-samples/sbs-iot-data-generator/blob/master/sbs.py
 
-##Implementation
+## Implementation
 
 Step 1: Creating Instance
  	To begin, we created an AWS account and assigned the IAM role "HCI Project" to it. IAM role is an AWS feature that allows you to grant certain permissions to roles so that anybody having the role's access key may access the account. We built an EC2 instance after creating the role. The Amazon EC2 instance allows us to establish a virtual machine in the cloud for computing.
@@ -64,7 +64,7 @@ The purpose was to use Aws to display the sensor data. We loaded, analyzed, proc
   
 According to linked data, each individual is becoming increasingly connected to a growing number of gadgets. A new generation of digital devices will emerge in the future. Simulations that include sensors and track their readings can aid in the prediction of natural disasters. Especially the enormous advantages of data management. Cities can be monitored, protected species can be safeguarded, air quality can be monitored, and natural disasters may be predicted. Predicting future events has more on that. This important future effort will aid in the improvement and monitoring of cities and endangered animals, as well as the air, planes, bridges, and truck fleets, as well as our talks, bodies, and even our dreams.
 
-11.	References
+## References
 1.	Jung-Sing Jwo,1,2 Ching-Sheng Lin ,1 and Cheng-Hsiung Lee1, “An Interactive Dashboard Using a Virtual Assistant for Visualizing Smart Manufacturing”  Department of Computer Science, Tunghai University, Taichung 40704, Taiwan, Published 3 May 2021.    
 2.	Mitiku Wubetie   “IoT Data Visualization With Modern JavaScript Frameworks “ Metropolia University of Applied Sciences , 20 October 2017.  
 3.	K. Thorlund, L. Dron, J. Park, G. Hsu, J. I. Forrest, and E. J. Mills, "A real-time dashboard of clinical trials for COVID-19," The Lancet Digital Health, vol. 2, no. 6, pp. e286-e287, 2020.
