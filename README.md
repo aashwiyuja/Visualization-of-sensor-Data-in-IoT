@@ -3,6 +3,17 @@
 ## Problem Statement
 As the number of smart devices connected to sensors grows, making sense of the raw data they produce becomes increasingly difficult. Sensor data is often stored in unstructured formats, making it hard to analyze or visualize. Without proper tools, this data remains underutilized. The goal of this project was to transform raw sensor data into meaningful visual insights using Amazon Web Services (AWS), enabling users to monitor, interpret, and act on IoT data in real time.
 
+## Implementation
+<img src="images/a.png" width="400"/>
+<img src="images/b.png" width="400"/>
+<img src="images/c.png" width="400"/>
+<img src="images/d.png" width="400"/>
+<img src="images/e.png" width="400"/>
+<img src="images/f.png" width="400"/>
+<img src="images/g.png" width="400"/>
+<img src="images/i.png" width="400"/>
+
+
 ## Strategies Tried
 
 ### Core Workflow
